@@ -1,11 +1,12 @@
 {
   "name": "eslint-plugin-inclusive",
   "version": "2.0.0",
-  "description": "ESLint rule which prevents usage of discriminatory language.",
+  "description": "ESLint rule which prevents usage of discriminatory language and suggests alternatives.",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "shibulijack",
-  "license": "ISC"
+  "repository": "https://github.com/shibulijack/eslint-plugin-inclusive",
+  "license": "MIT"
 }

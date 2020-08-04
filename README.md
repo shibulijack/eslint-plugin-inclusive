@@ -1,6 +1,6 @@
 # eslint-plugin-inclusive
 
-This contains eslint rule which prevents racially discriminatory language.
+This contains eslint rule which prevents racially discriminatory language and suggests alternatives.
 
 ## Installation
 
@@ -12,7 +12,7 @@ npm install --save-dev eslint-plugin-inclusive
 
  Name                                    | Description                                                                          |
 --------------------------------------- | ------------------------------------------------------------------------------------ |
-`eslint-plugin-inclusive/no-language-of-discrimination` | Prevents usage of specific discriminatory words. |
+`no-language-of-discrimination` | Prevents usage of specific discriminatory words. |
 
 
 ## Usage
