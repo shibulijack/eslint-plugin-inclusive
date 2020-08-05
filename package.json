@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-inclusive",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "ESLint rule which prevents usage of discriminatory language and suggests alternatives.",
   "main": "lib/index.js",
   "scripts": {
